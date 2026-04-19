@@ -1,4 +1,4 @@
-# 🛒 Retail Billing System (Full-Stack Project)
+# 🛒 Retail Billing System
 
 A full-stack web application built using **Spring Boot, React, and MySQL** to manage retail billing operations like product management, pricing, and inventory.
 
