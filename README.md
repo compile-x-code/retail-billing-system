@@ -156,9 +156,6 @@ http://localhost:5173
 
 ---
 
-## 👨‍💻 Author
-
-**Anurag Tiwari**
 
 ---
 
